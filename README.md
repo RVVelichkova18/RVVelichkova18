@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Radina Velichkova, and I am studying computer programming in Vocational School For Computer Programming and Innovations since 2018. I am interested in graphic design and database fundamentals. 
+
 
 <!--
 **RVVelichkova18/RVVelichkova18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
